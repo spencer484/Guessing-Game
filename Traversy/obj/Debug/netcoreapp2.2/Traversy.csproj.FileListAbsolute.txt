@@ -1,0 +1,11 @@
+C:\Users\spenc\OneDrive\Documents\CodingDojo\C#\Traversy\bin\Debug\netcoreapp2.2\Traversy.deps.json
+C:\Users\spenc\OneDrive\Documents\CodingDojo\C#\Traversy\bin\Debug\netcoreapp2.2\Traversy.runtimeconfig.json
+C:\Users\spenc\OneDrive\Documents\CodingDojo\C#\Traversy\bin\Debug\netcoreapp2.2\Traversy.runtimeconfig.dev.json
+C:\Users\spenc\OneDrive\Documents\CodingDojo\C#\Traversy\bin\Debug\netcoreapp2.2\Traversy.dll
+C:\Users\spenc\OneDrive\Documents\CodingDojo\C#\Traversy\bin\Debug\netcoreapp2.2\Traversy.pdb
+C:\Users\spenc\OneDrive\Documents\CodingDojo\C#\Traversy\obj\Debug\netcoreapp2.2\Traversy.csprojAssemblyReference.cache
+C:\Users\spenc\OneDrive\Documents\CodingDojo\C#\Traversy\obj\Debug\netcoreapp2.2\Traversy.csproj.CoreCompileInputs.cache
+C:\Users\spenc\OneDrive\Documents\CodingDojo\C#\Traversy\obj\Debug\netcoreapp2.2\Traversy.AssemblyInfoInputs.cache
+C:\Users\spenc\OneDrive\Documents\CodingDojo\C#\Traversy\obj\Debug\netcoreapp2.2\Traversy.AssemblyInfo.cs
+C:\Users\spenc\OneDrive\Documents\CodingDojo\C#\Traversy\obj\Debug\netcoreapp2.2\Traversy.dll
+C:\Users\spenc\OneDrive\Documents\CodingDojo\C#\Traversy\obj\Debug\netcoreapp2.2\Traversy.pdb
